@@ -1,31 +1,32 @@
 h1 {
-    font: Heading-Pro-Heavy-Italic-trial
+  font: Heading-Pro-Heavy-Italic-trial;
 }
 
 body {
-    background-color: lightblue;
-  }
-
-
-table{
-    width: 600px;
-    /*border-spacing: 5px; */
-    
+  background-color: lightblue;
 }
 
-th{
-    text-align: left ;
+table {
+  width: 600px;
+  /*border-spacing: 5px; */
 }
 
-table, th, td{
-    border: 1px solid #000;
-    border-collapse: collapse;
+th {
+  text-align: left;
 }
 
-th, td{
-    padding: 10px;
+table,
+th,
+td {
+  border: 1px solid #000;
+  border-collapse: collapse;
+}
+
+th,
+td {
+  padding: 10px;
 }
 
 tr:nth-child(even) {
-    background-color: ddd;
+  background-color: ddd;
 }
