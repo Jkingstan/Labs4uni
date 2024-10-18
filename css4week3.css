@@ -1,5 +1,5 @@
-h1 {
-  font: Heading-Pro-Heavy-Italic-trial;
+h1,h2,h3 {
+  font-family: "Provicali";
 }
 
 body {
